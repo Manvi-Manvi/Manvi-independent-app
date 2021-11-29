@@ -1,0 +1,81 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+
+}
+
+body
+{
+background-image: linear-gradient(to right top,rgb(219,112,147));
+}
+
+body {
+	background-image: url("https://i.pinimg.com/originals/19/33/d3/1933d323f8a5d1e804bb643a3a2c0a40.jpg");
+   }
+
+.header
+{
+	color:rgb(219,112,147);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: rgb(255,182,193);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgb(255,182,193);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;
+}
+
+.div_output{
+	color:white
+}
+.color_white{
+	color:rgb(219,112,147)
+}
+
+.add_cabi{
+	 color:rgb(219,112,147)
+}
+.send{
+	color:rgb(190, 100, 115);
+}
